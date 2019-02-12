@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class index extends Component {
+class Search extends Component {
   render() {
     return (
       <form>
@@ -11,4 +11,4 @@ class index extends Component {
   }
 }
 
-export default index;
+export default Search;
